@@ -1,4 +1,18 @@
 body{
   color:white;
   background-color: black;
+  ;
+  h1 {
+    font-size: 20px;
+  }
 
+p {
+  font-size: 16;
+  font-size: 12px;
+  kdsajf: 34px;
+}
+.reunus {
+  border-style: dotted;
+  border-width: 2px;
+  border-color: red;
+}
