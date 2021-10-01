@@ -14,6 +14,7 @@ p {
 }
 .reunus {
   border-style: dotted 2px;
+  border-color: red;
   border-width: 2px;
   border-color:red;
   width: 100px;
