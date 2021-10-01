@@ -2,6 +2,10 @@ body{
   color:white;
   background-color: black;
   ;
+  p.one {
+    border-style: solid;
+    border-color: red;
+  }
   h1 {
     font-size: 20px;
   }
