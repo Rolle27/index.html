@@ -2,7 +2,7 @@ body{
   color:white;
   background-color: black;
   ;
-  p.dotted {border-style: dotted;}
+  <p class="dotted">A dotted border.</p>
   h1 {
     font-size: 20px;
   }
