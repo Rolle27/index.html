@@ -2,10 +2,7 @@ body{
   color:white;
   background-color: black;
   ;
-  p.one {
-    border-style: solid;
-    border-color: red;
-  }
+  p.dotted {border-style: dotted;}
   h1 {
     font-size: 20px;
   }
