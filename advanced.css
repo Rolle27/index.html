@@ -2,7 +2,7 @@ h1 {
     font-size: 150px;
     text-shadow: 20px 20px 10px #212121;
     background-image: url(img/retard.jpg);
-    background-size: ;
+   
 }
 
 h2 {
@@ -50,4 +50,7 @@ ul {
     body {
       background-color: black;
       color: white;
+    } 
+
+
     }
