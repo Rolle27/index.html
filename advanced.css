@@ -2,9 +2,52 @@ h1 {
     font-size: 150px;
     text-shadow: 20px 20px 10px #212121;
     background-image: url(img/retard.jpg);
+    background-size: ;
 }
 
-p {
+h2 {
     text-shadow: 20px 20px 10px #212121;
 }
 
+p {
+    color: #6dd4b1;
+transition: all 0.2s linear;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(226, 7, 7);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  a, a:link, a:active, a:visited {
+    transition: color 0.25s ease-out; 
+   -webkit-transition: color 0.25s ease-out; 
+   -moz-transition: color 0.25s ease-out; 
+   -o-transition: color 0.25s ease-out;
+   color: #f3f0ef; 
+   }
+
+   @media only screen and (max-width: 800px) {
+    body {
+      background-color: black;
+      color: white;
+    }
