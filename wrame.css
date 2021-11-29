@@ -1,0 +1,27 @@
+
+head {
+    background-image: url('img/jyrki.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+body {
+    background-image: url('img/jyrki1.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+ 
+}
+h1 {
+    font-size: 45px;
+    
+}
+
+p {
+    font-size: 25px;
+}
+
+nav {
+   background-color: darkgray;
+   font-size: 20px;
+}
